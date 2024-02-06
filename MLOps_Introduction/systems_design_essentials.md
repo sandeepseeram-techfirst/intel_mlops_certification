@@ -33,11 +33,11 @@ Using trained models to make predictions or generate assets.
 - Validation 
 - Refinement 
 
-##### 
+##### Common Technologies
 
-PyTorch 
-Tensorflow 
-Scikit Learn 
+- PyTorch 
+- Tensorflow 
+- Scikit Learn 
 
 
 #### Inference 
