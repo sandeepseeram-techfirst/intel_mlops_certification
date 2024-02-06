@@ -4,3 +4,12 @@
   - User Interface 
 
 # ML Pipeline 
+
+### Data Processing 
+Preparing and transforming raw data for machine learning. 
+
+### Model Development 
+Using processed datasets to train a machine learning model. 
+
+### Inference 
+Using trained models to make predictions or generate assets. 
