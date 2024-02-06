@@ -26,5 +26,31 @@ Using trained models to make predictions or generate assets.
     - Pandas 
     - Apache Kafka 
 
-    
+#### Model Development 
 
+- Algorithm Selection - Selecting a suitable model architecture or algorithm that aligns with the problem at hand. Linear Regression, Decision Trees, Random Forests, Neural Networks. 
+- Training 
+- Validation 
+- Refinement 
+
+##### 
+
+PyTorch 
+Tensorflow 
+Scikit Learn 
+
+
+#### Inference 
+using trained models to make predictions or generate assets 
+Two Types: 
+ - Realtime 
+ - Batch 
+
+##### Monitoring Model Inference 
+- Reliability Score 
+- Satisfaction Score 
+- Model Performance 
+- Accuracy 
+- Distributions 
+- Latency 
+- Denial of Service 
