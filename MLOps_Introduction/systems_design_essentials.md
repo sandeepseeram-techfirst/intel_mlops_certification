@@ -13,3 +13,18 @@ Using processed datasets to train a machine learning model.
 
 ### Inference 
 Using trained models to make predictions or generate assets. 
+
+
+#### Data Processing 
+- Collection 
+- Cleaning and Preprocessing 
+- Feature Engineering 
+  creating new features or transforming existing features to capture relevant patterns and relationships within the data. 
+
+###### Tools for Data Processing 
+    - Apache Spark 
+    - Pandas 
+    - Apache Kafka 
+
+    
+
