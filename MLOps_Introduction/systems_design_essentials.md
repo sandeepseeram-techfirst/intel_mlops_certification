@@ -41,8 +41,8 @@ Using trained models to make predictions or generate assets.
 
 
 #### Inference 
-using trained models to make predictions or generate assets 
-Two Types: 
+using trained models to make predictions or generate assets.
+##### Two Types: 
  - Realtime 
  - Batch 
 
