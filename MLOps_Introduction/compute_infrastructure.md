@@ -11,7 +11,7 @@ distributed computational resources and scalability to handle large scale data p
 
 ##### FPGA's 
 accelerate inference tasks by offloading computations from CPU's and GPU's. 
- - Helps in improved performance, reduced latency, and lower power consumption in AI applications. 
+Helps in improved performance, reduced latency, and lower power consumption in AI applications. 
 
 ##### EDGE 
 Edge compute, is to bring computational power and AI capabilities closer to the data source or end-user, enabling real-time processing, reduced latency and privacy sensitive applications. 
