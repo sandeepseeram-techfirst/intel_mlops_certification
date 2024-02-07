@@ -7,5 +7,8 @@ Bottlenecks and Oppurtunities for Optimization in AI Systems.
 ##### Memory Constraints 
 ##### IO Latency 
 - Slow data transfer between the storage devices, networks or external data sources. 
+- caching mechanism 
+- efficient data pipelines 
+
 
  
