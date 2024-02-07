@@ -15,3 +15,7 @@ accelerate inference tasks by offloading computations from CPU's and GPU's.
 
 ##### EDGE 
 Edge compute, is to bring computational power and AI capabilities closer to the data source or end-user, enabling real-time processing, reduced latency and privacy sensitive applications. 
+
+
+### Heterogeneous AI Systems 
+Combination of CPU's, GPU's, VPU's, TPU's & Accelerators 
