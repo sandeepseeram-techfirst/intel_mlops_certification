@@ -2,3 +2,5 @@
 a collection of small independent services.  
 
 - Enables horizontal scalability 
+- Independent Deployment 
+- 
