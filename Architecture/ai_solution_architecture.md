@@ -17,3 +17,4 @@ Data Processing =============> Model Development ==============> Inference Servi
 - The architecture involves designing a system capable of handling incoming requests, preprocessing input data, applying it to the trained model, and returning predictions or results to the requester. 
 
 - Leverages technologies and frameworks like TorchServe, Tensorflow Serving, OpenVINO Model Server, MLflow Models, ONNX. 
+
