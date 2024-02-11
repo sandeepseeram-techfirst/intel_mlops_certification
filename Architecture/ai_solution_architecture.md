@@ -20,3 +20,17 @@ Data Processing =============> Model Development ==============> Inference Servi
 
 #### Design 3 - Event-Driven Architecture 
 
+- Event driven architecture in AI solution emphasizes real-time data preprocessing and inferencem where specific actions or processes are triggered by events or data streams, enabling immediate decision making and responsiveness. 
+
+- Use Cases: 
+  - Anomaly Detection 
+  - Fraud Detection 
+  - Real-Time Recommendation Systems 
+
+#### Stream Processing Frameworks 
+
+- Apache Kafka 
+- Apache Flink 
+
+#### Federated Learning Architecture 
+
