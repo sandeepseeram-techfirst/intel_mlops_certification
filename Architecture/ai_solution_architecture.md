@@ -34,3 +34,6 @@ Data Processing =============> Model Development ==============> Inference Servi
 
 #### Federated Learning Architecture 
 
+- Enables collabrative model training across multiple devices, organiations, ensuring data privacy and reducing data transfer. 
+- The aggregated gradients from these local models are shared to improve the global model, avoiding the need for raw data transfer. 
+- Federated Learning is beneficial when data privacy is a concern or data transfer is resource-intensive. 
