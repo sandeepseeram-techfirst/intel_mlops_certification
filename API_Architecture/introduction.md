@@ -6,3 +6,9 @@ API's define the methods, protocols, and data formats components that can be use
 - Data pipelines 
 - Machine Learning Models 
 - Inference Engines - use API's to communicate and share data. 
+
+#### API Architectures 
+
+- Pipeline 
+- Event 
+- Layered 
