@@ -18,3 +18,5 @@ Data Processing =============> Model Development ==============> Inference Servi
 
 - Leverages technologies and frameworks like TorchServe, Tensorflow Serving, OpenVINO Model Server, MLflow Models, ONNX. 
 
+#### Design 3 - Event-Driven Architecture 
+
