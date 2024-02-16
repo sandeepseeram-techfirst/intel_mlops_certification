@@ -11,3 +11,8 @@
 - Proactive Problem Identification and Mitigation 
 - Collaboration and Alignment 
 
+### Notation Standards 
+
+- UML 
+- C4 Model 
+- ArchiMate Framework 
