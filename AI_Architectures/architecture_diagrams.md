@@ -13,6 +13,6 @@
 
 ### Notation Standards 
 
-- UML 
+- UML - Unified Modeling Language 
 - C4 Model 
 - ArchiMate Framework 
