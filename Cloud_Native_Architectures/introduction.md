@@ -14,3 +14,9 @@
 - Amazon Redshift 
 - Amazon Kinesis 
 - AWS Glue 
+
+#### Compute and API Services 
+
+- EC2 & ECS 
+- Lambda 
+- Amazon API Gateway 
