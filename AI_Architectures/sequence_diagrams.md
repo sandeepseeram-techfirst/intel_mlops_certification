@@ -5,3 +5,6 @@ Sequence diagrams can be much more complex with conditionals, loops and concurre
 
 #### Basic Sequence Diagram 
 
+- Basic Version 
+
+![alt text](sequence_diagram.png)
