@@ -20,3 +20,15 @@
 - EC2 & ECS 
 - Lambda 
 - Amazon API Gateway 
+
+
+#### Application Security Services 
+
+- AWS Cognito 
+- AWS Secrets Manager 
+
+
+#### Messaging and Logging Services 
+
+- SNS 
+- CloudWatch 
