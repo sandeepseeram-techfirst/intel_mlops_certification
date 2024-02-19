@@ -32,3 +32,6 @@
 
 - SNS 
 - CloudWatch 
+
+#### AI Specific Services 
+
