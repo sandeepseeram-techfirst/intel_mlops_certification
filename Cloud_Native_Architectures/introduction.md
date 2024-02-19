@@ -35,3 +35,10 @@
 
 #### AI Specific Services 
 
+##### Amazon SageMaker 
+
+- Its a fully managed service enabling the building, training, and deployment of the ML models at scale. 
+- Distributed Model Training and Deployment - SageMaker supports scalable and distributed training and deployment of ML models. 
+- Hyperparameter Tuning - SageMaker offers features to optimize ML models for Improved accuracy. 
+- Secure and Scalable Environment - Provides an end-to-end secure and scalable environment for all ML workflows. 
+
