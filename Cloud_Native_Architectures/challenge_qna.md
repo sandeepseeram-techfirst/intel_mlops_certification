@@ -6,7 +6,7 @@
 4. Describe a scenario where modifying one component in the architecture might impact other components.
 
 
-Challenge Question Answers:
+#### Challenge Question Answers:
 
 Architecture diagrams visually represent the system's design, making understanding complex structures and relationships easier. They facilitate effective communication among team members, stakeholders, and developers. Diagrams can also serve as documentation, aiding in maintenance and troubleshooting.
 Architecture diagrams use visual elements that are easier for non-technical stakeholders to comprehend than technical documentation. They allow stakeholders to grasp the system's overall design, potential risks, and impacts on business objectives.
