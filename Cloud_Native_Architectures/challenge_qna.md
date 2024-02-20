@@ -14,5 +14,5 @@
 
 3. When creating architecture diagrams, consider principles like modularity, loose coupling, and high cohesion. Strive for simplicity, avoiding unnecessary complexities. Additionally, ensure consistency with the actual implementation of the system.
 
-For example, if a new feature is added to a component, it might require changes to the APIs exposed by that component. These changes can affect other components that rely on those APIs, leading to a ripple effect of modifications across the architecture.
+4. For example, if a new feature is added to a component, it might require changes to the APIs exposed by that component. These changes can affect other components that rely on those APIs, leading to a ripple effect of modifications across the architecture.
   
