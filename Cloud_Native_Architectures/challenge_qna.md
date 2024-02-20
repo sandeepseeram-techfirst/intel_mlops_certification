@@ -2,8 +2,8 @@
 
 1. What are the benefits of creating architecture diagrams for software systems?
 2. How can architecture diagrams aid in communicating with non-technical stakeholders?
-What design principles should be considered while creating architecture diagrams?
-Describe a scenario where modifying one component in the architecture might impact other components.
+3. What design principles should be considered while creating architecture diagrams?
+4. Describe a scenario where modifying one component in the architecture might impact other components.
 
 
 Challenge Question Answers:
