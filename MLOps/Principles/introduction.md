@@ -4,3 +4,10 @@
 
 - MLOps aids in the transformation of AI system architecture. 
 - MLOps streamlines the ML lifecycle and enhances collabration, automation, monitoring and governance. 
+
+#### MLOps Components 
+
+- Data Management 
+- Model Development 
+- Continous Integration & Continous Deployment 
+
