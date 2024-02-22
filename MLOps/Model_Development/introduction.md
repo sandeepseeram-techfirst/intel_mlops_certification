@@ -7,3 +7,10 @@
 
 - Code Repositories 
 - Experiment Tracking Tools 
+- Model Versioning Systems - to manage, track and deploy various versions of models efficiently. 
+
+
+#### Model Registries 
+
+- Model registries serve as centralized storage for trained models and relevant metadata, facilitating easy access and deployment, fostering collaboration among data scientists and streamlining the model development process. 
+
