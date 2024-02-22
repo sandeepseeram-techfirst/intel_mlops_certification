@@ -9,3 +9,4 @@
 - Data Versioning Systems 
 - Data Validation Techniques 
 
+![alt text](datamanagement.png)
