@@ -5,3 +5,8 @@
 - emphasis on data versioning for tracking training data changes and ensuring reproducibility. 
 
 ![alt text](cicd-mlops.png)
+
+
+#### Model Registry 
+
+- Model Registry Implementation: A Central repository for storing and managing trained models along with their metadata. 
