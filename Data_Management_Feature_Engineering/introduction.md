@@ -10,3 +10,5 @@
 
 - Vital for ingesting, processing and transforming data in real-time. 
 - Supported by tools like Apache Kafka, Apache Flink and Amazon Kinesis 
+- Enable real-time analytics and immediate model feedback. 
+
