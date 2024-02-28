@@ -13,3 +13,4 @@
 - Enable real-time analytics and immediate model feedback. 
 
 #### Data Lakes and Warehouses 
+- Central Storage for both structured and unstructured data. 
