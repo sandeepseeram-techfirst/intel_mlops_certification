@@ -24,5 +24,10 @@
 
 
 #### Feature Stores 
+- Specialized repositories for ML feature storage and retrieval 
+- Centralize, Manage and Scale feature usage for training and inference. 
+- Tools like Feast and Tecton support feature store capabilities. 
+- Promote feature engineering best practives and accelerate model development. 
+
 
 
