@@ -18,4 +18,11 @@
 
 #### Data Versioning 
 - Ensures reproducibility and traceability in ML projects. 
+- Tools like DVC, Git LFS extend traditional version controls for data. 
+
+![alt text](dataversioning.png)
+
+
+#### Feature Stores 
+
 
