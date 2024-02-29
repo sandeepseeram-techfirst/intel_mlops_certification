@@ -16,3 +16,6 @@
 - Central Storage for both structured and unstructured data. 
 - Supported by Apache Hadoop, Apache Spark, Amazon S3 and Google BigQuery. 
 
+#### Data Versioning 
+- Ensures reproducibility and traceability in ML projects. 
+
