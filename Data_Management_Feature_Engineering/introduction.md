@@ -31,5 +31,10 @@
 
 #### Vector Databases 
 
+- Designed to handle high-dimensional vector data in ML 
+- Key for efficient indexing and querying in high-dimensional space. 
+- Critical for tasks like similarity search and image recognition 
+- Enhance AI and MLOps capabilities, especially for recommendation systems. 
+
 
 
