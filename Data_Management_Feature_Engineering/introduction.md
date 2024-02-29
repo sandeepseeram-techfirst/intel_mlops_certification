@@ -29,5 +29,7 @@
 - Tools like Feast and Tecton support feature store capabilities. 
 - Promote feature engineering best practives and accelerate model development. 
 
+#### Vector Databases 
+
 
 
