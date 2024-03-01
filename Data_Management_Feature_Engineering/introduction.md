@@ -36,5 +36,5 @@
 - Critical for tasks like similarity search and image recognition 
 - Enhance AI and MLOps capabilities, especially for recommendation systems. 
 
-
+![alt text](vectordatabases.png)
 
