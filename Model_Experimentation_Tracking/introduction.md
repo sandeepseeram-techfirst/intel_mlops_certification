@@ -5,3 +5,7 @@
 
 #### Hyperparameter Optimization 
 - Hyperparameters are configurable settings crucial for machine learning model behavior and efficacy. 
+- Right Hyperparameter combinations can notably enhance model performance. 
+
+- Tools like, SigOpt, Optuna, Hyperopt automate the search for ideal hyperparameter combinations. 
+
