@@ -7,6 +7,7 @@ such as supervised versus unsupervised, gradient descent, objective/loss functio
 ### Metrics 
 such as accuracy, F1, precision, recall, ROC, mean squared error, and log-likelihood
 
-Statistical concepts such as variance, probability, and normal/long-tail distribution
+### Statistical concepts
+such as variance, probability, and normal/long-tail distribution
 
 Common ML tasks such as language modeling, anomaly detection, object classification, and machine translation
