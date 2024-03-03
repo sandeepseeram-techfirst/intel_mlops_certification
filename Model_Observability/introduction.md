@@ -23,4 +23,5 @@
 - Triggers, Monitoring and Logging together ensure high service quality in models. 
 
 
+####### Denial of Service (DOS) concerns 
 
