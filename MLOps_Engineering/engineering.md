@@ -1,4 +1,4 @@
-#### ML models  
+#### ML models
 clustering, logistic regression, decision trees, collaborative filtering, and various neural network architectures including feed-forward, recurrent, convolutional, and transformer
 
 #### ML techniques 
