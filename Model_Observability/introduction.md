@@ -25,3 +25,7 @@
 
 ####### Denial of Service (DOS) concerns 
 
+#### Techniques 
+
+- A/B testing 
+- Canary Releases 
