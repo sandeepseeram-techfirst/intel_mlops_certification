@@ -14,3 +14,8 @@
 - Drift involves changes in data distribution (data drift) or relationships between variables (concept drift) 
 - Data drift can make predictions inaccurate and can result from various factors. 
 - Concept drift is challenging to detect and might need technique like regular retraining. 
+
+
+#### Triggering 
+
+- Triggers activate processes when model performance degrades. 
