@@ -19,3 +19,5 @@
 #### Triggering 
 
 - Triggers activate processes when model performance degrades. 
+- Set triggers based on predefined thresholds, eg. accuracy dropping below 85% 
+
