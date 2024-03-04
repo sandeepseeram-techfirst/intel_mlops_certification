@@ -11,3 +11,8 @@ To operationalize something means to bring it into production, which includes de
 
 
 Machine learning is an approach to (1) learn (2) complex patterns from (3) existing data and use these patterns to make (4) predictions on (5) unseen data.
+
+
+#### Zero-Shot Learning 
+
+In the zero-shot learning (sometimes known as zero-data learning) context, it’s possible for an ML system to make good predictions for a task without having been trained on data for that task.
