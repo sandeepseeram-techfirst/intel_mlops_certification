@@ -15,3 +15,10 @@
 - Its a modular part of a broader production inference pipeline. 
 
 ![alt text](mlpredictionservice.png)
+
+
+#### Inference Modes 
+
+- Real-time or Online Inference 
+- Batch Inference 
+
