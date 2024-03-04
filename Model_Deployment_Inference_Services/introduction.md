@@ -7,3 +7,5 @@
 - Models can be deployed by loading and compiling them into the ML prediction service's memory. 
 
 ![alt text](hotmodel.png)
+
+
