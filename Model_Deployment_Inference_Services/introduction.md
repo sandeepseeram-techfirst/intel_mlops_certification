@@ -14,3 +14,4 @@
 - The ML prediction service receives inputs and delivers suitable responses either directly or via post-processing. 
 - Its a modular part of a broader production inference pipeline. 
 
+![alt text](mlpredictionservice.png)
