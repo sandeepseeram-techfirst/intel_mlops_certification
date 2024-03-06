@@ -31,3 +31,4 @@ If your product or service involves transactions of any value, it’ll be suscep
 
 #### Churn prediction 
 entails forecasting the moment when a particular customer or employee is likely to discontinue their usage of your products or services, allowing you to implement suitable strategies to retain them. This predictive analysis is not limited to customers but extends to employees as well.
+
