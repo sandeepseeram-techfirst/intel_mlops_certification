@@ -36,3 +36,4 @@ entails forecasting the moment when a particular customer or employee is likely 
 higher latency might also mean higher throughput. If you process 10 queries at a time and it takes 10 ms to run a batch, the average latency is still 10 ms but the throughput is now 10 times higher—1,000 queries/second. 
 
 If you process 50 queries at a time and it takes 20 ms to run a batch, the average latency now is 20 ms and the throughput is 2,500 queries/second. 
+
