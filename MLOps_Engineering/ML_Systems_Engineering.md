@@ -29,3 +29,5 @@ one of the biggest use cases of ML today is in recommender systems because with 
 is among the oldest applications of ML in the enterprise world. 
 If your product or service involves transactions of any value, it’ll be susceptible to fraud. 
 
+#### Churn prediction 
+entails forecasting the moment when a particular customer or employee is likely to discontinue their usage of your products or services, allowing you to implement suitable strategies to retain them. This predictive analysis is not limited to customers but extends to employees as well.
