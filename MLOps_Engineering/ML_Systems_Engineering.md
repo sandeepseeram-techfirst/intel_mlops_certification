@@ -28,3 +28,4 @@ one of the biggest use cases of ML today is in recommender systems because with 
 #### Fraud detection 
 is among the oldest applications of ML in the enterprise world. 
 If your product or service involves transactions of any value, it’ll be susceptible to fraud. 
+
