@@ -5,3 +5,7 @@
 #### ML objectives: 
 the metrics they can measure about the performance of their ML models such as accuracy, F1 score, inference latency, etc.
 
+#### System Design Considerations 
+
+1. Reliability 
+2. Scalability
