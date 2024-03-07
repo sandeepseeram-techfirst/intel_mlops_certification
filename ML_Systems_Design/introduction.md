@@ -9,3 +9,4 @@ the metrics they can measure about the performance of their ML models such as ac
 
 1. Reliability 
 2. Scalability
+3. Maintainability
