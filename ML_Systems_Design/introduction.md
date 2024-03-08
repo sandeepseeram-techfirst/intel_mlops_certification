@@ -13,7 +13,7 @@ the metrics they can measure about the performance of their ML models such as ac
 4. Adaptability
 5. Iterative Process
 
-#### Model Training & Deployment Process 
+#### Model Training  - Iterative Process 
 
 1. Choose a metric to optimize. For example, you might want to optimize for impressions—the number of times an ad is shown.
 
