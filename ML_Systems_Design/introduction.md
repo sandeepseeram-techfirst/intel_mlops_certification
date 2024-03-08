@@ -11,3 +11,4 @@ the metrics they can measure about the performance of their ML models such as ac
 2. Scalability
 3. Maintainability
 4. Adaptability
+5. Iterative Process
