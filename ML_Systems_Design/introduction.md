@@ -40,3 +40,6 @@ the metrics they can measure about the performance of their ML models such as ac
 12. The model seems to be performing well, but then the businesspeople come knocking on your door asking why the revenue is decreasing. It turns out the ads are being shown, but few people click on them. So you want to change your model to optimize for ad click-through rate instead.
 
 
+#### Quote 
+
+"Building an ML system isn’t a one-off task but an iterative process."
