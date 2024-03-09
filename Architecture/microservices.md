@@ -22,5 +22,5 @@ a collection of small independent services. self contained units - communication
 #### Cicuit Breaker
 If the service becomes unresponsive or experience errors, the circuit breaker trips and routes requests to an alternative path, such as a fallback service or cached data. 
 
-#### API Gateway 
+#### API Gateway
 provides a central entry point for clients to access the microservices. It serves as an intermediary between the clients and the underlying services, abstracting the complexities of service communication and providing an unified API. 
