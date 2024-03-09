@@ -37,3 +37,4 @@ higher latency might also mean higher throughput. If you process 10 queries at a
 
 If you process 50 queries at a time and it takes 20 ms to run a batch, the average latency now is 20 ms and the throughput is 2,500 queries/second. 
 
+
