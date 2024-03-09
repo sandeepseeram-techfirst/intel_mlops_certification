@@ -7,3 +7,4 @@ two major types of processing:
 ###### Analytical
 
 #### Data Sources 
+An ML system can work with data from many different sources. 
