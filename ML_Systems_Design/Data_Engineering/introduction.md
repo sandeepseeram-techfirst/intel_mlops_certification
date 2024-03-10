@@ -8,3 +8,7 @@ two major types of processing:
 
 #### Data Sources 
 An ML system can work with data from many different sources. 
+
+
+###### Note: 
+Debugging ML systems is hard, it’s a common practice to log everything you can!!! 
