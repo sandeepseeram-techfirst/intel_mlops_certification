@@ -9,6 +9,6 @@
 - Supports asynchronous programming for concurrent requests 
 
 
-#### Model Serving API 
+#### Model Serving API
 - FastAPI to serve machine learning models. Define API endpoints that receive input data, preprocess it, pass it through the model, and return predictions or results. 
 - Documentation is a important consideration in building API's. 
