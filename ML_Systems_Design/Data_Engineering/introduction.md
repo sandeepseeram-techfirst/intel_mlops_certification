@@ -16,3 +16,6 @@ This means that your volume of logs can grow very, very quickly.
 
 ###### Log Analysis Tools 
 Splunk, Elasticsearch - Logstash, Datadog, Logz.io, etc
+
+also note, Even though this is system-generated data, it’s still considered part of user data and might be subject to privacy regulations. 
+
