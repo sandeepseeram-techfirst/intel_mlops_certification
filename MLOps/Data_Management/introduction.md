@@ -9,7 +9,7 @@
 - Data Versioning Systems 
 - Data Validation Techniques 
 
-![alt text](datamanagement.png)
+![alt text](datamanagement.png) 
  
 
 - These components enable organizations to handle large data volumes efficiently. 
