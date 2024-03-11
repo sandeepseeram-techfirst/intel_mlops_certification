@@ -23,8 +23,8 @@ also note, Even though this is system-generated data, it’s still considered pa
 #### First-party data 
 is the data that your company already collects about your users or customers. 
 
-#### Second-party data 
+#### Second-party data  
 is the data collected by another company on their own customers that they make available to you, though you’ll probably have to pay for it. 
 
-#### Third-party data 
+#### Third-party data  
 companies collect data on the public who aren’t their direct customers.
