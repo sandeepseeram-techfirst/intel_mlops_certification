@@ -19,7 +19,6 @@ Splunk, Elasticsearch - Logstash, Datadog, Logz.io, etc
 
 also note, Even though this is system-generated data, it’s still considered part of user data and might be subject to privacy regulations. 
 
-
 #### First-party data
 is the data that your company already collects about your users or customers. 
 
