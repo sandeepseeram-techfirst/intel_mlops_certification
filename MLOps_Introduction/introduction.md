@@ -7,5 +7,5 @@ It supports, the release, activation, monitoring, performance tracking, manageme
 # Hands-on Labs - Intel Developer Cloud 
 is a service platform for developing and running workloads in Intel optimized deployment environments with latest intel processors and performance optimized software stacks. 
 
-https://console.cloud.intel.com/  
+https://console.cloud.intel.com/
 
