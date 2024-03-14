@@ -49,3 +49,4 @@ Parquet	Binary	No	Hadoop, Amazon Redshift
 Avro	Binary primary	No	Hadoop
 Protobuf	Binary primary	No	Google, TensorFlow (TFRecord)
 Pickle	Binary	No	Python, PyTorch serialization
+
