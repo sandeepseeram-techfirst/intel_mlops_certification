@@ -38,3 +38,5 @@ Each phone used to have a unique advertiser ID. iPhones with Apple’s Identifie
 
 How do I store multimodal data, e.g., a sample that might contain both images and texts?
 
+#### Data Serialization 
+The process of converting a data structure or object state into a format that can be stored or transmitted and reconstructed later is data serialization. 
