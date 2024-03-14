@@ -50,3 +50,6 @@ Avro	Binary primary	No	Hadoop
 Protobuf	Binary primary	No	Google, TensorFlow (TFRecord)
 Pickle	Binary	No	Python, PyTorch serialization
 
+
+#### JSON 
+JSON, JavaScript Object Notation, is everywhere. Even though it was derived from JavaScript, it’s language-independent—most modern programming languages can generate and parse JSON. It’s human-readable. Its key-value pair paradigm is simple but powerful, capable of handling data of different levels of structuredness.
