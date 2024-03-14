@@ -27,3 +27,9 @@ is the data collected by another company on their own customers that they make a
 
 #### Third-party data
 companies collect data on the public who aren’t their direct customers.
+
+
+
+#### Smart Phone Data 
+Each phone used to have a unique advertiser ID. iPhones with Apple’s Identifier for Advertisers (IDFA) and Android phones with their Android Advertising ID (AAID)—which acted as a unique ID to aggregate all activities on a phone. 
+
