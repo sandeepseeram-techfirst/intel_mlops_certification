@@ -40,3 +40,12 @@ How do I store multimodal data, e.g., a sample that might contain both images an
 
 #### Data Serialization 
 The process of converting a data structure or object state into a format that can be stored or transmitted and reconstructed later is data serialization. 
+
+#### Data Formats 
+Format	Binary/Text	Human-readable	Example use cases
+JSON	Text	Yes	Everywhere
+CSV	Text	Yes	Everywhere
+Parquet	Binary	No	Hadoop, Amazon Redshift
+Avro	Binary primary	No	Hadoop
+Protobuf	Binary primary	No	Google, TensorFlow (TFRecord)
+Pickle	Binary	No	Python, PyTorch serialization
