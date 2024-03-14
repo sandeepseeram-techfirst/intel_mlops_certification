@@ -36,4 +36,5 @@ Each phone used to have a unique advertiser ID. iPhones with Apple’s Identifie
 
 #### Data Formats 
 
+How do I store multimodal data, e.g., a sample that might contain both images and texts?
 
