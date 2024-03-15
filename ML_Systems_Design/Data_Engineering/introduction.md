@@ -67,3 +67,5 @@ JSON, JavaScript Object Notation, is everywhere. Even though it was derived from
 }
 
 #### Row-Major Versus Column-Major Format 
+
+- CSV (comma-separated values) is row-major, which means consecutive elements in a row are stored next to each other in memory. 
