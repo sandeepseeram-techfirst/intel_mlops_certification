@@ -70,3 +70,6 @@ JSON, JavaScript Object Notation, is everywhere. Even though it was derived from
 
 - CSV (comma-separated values) is row-major, which means consecutive elements in a row are stored next to each other in memory. 
 - Parquet is column-major, which means consecutive elements in a column are stored next to each other. 
+
+
+ Column-major formats like Parquet are better for accessing features, e.g., accessing the timestamps of all your examples.
