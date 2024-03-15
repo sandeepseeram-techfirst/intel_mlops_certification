@@ -73,3 +73,7 @@ JSON, JavaScript Object Notation, is everywhere. Even though it was derived from
 
 
  Column-major formats like Parquet are better for accessing features, e.g., accessing the timestamps of all your examples.
+
+##### Use Cases: 
+ Row-major formats are better when you have to do a lot of writes, whereas column-major ones are better when you have to do a lot of column-based reads. 
+
