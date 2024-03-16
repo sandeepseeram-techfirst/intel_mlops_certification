@@ -76,3 +76,6 @@ JSON, JavaScript Object Notation, is everywhere. Even though it was derived from
 ##### Use Cases: 
  Row-major formats are better when you have to do a lot of writes, whereas column-major ones are better when you have to do a lot of column-based reads. 
 
+
+##### Pandas 
+
