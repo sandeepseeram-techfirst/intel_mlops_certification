@@ -81,3 +81,4 @@ JSON, JavaScript Object Notation, is everywhere. Even though it was derived from
 pandas is built around DataFrame, a concept inspired by R’s Data Frame, which is column-major. A DataFrame is a two-dimensional table with rows and columns. 
 
 
+#### Text vs. Binary Format
