@@ -89,3 +89,7 @@ Binary files are the catchall that refers to all nontext files. As the name sugg
 #### AWS Recommendation: 
 
 AWS recommends using the Parquet format because “the Parquet format is up to 2x faster to unload and consumes up to 6x less storage in Amazon S3, compared to text formats.”
+
+#### query optimizer
+A query optimizer examines all possible ways to execute a query and finds the fastest way to do so. 
+
