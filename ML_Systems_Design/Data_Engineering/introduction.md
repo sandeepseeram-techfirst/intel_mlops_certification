@@ -101,3 +101,10 @@ With a declarative ML system, users only need to declare the features’ schema 
 
 Users won’t have to write code to construct, train, and tune models. 
 
+Popular frameworks for declarative ML are Ludwig, developed at Uber, and H2O AutoML. 
+
+##### Ludwig 
+In Ludwig, users can specify the model structure—such as the number of fully connected layers and the number of hidden units—on top of the features’ schema and output. 
+
+##### H2O AutoML 
+In H2O AutoML, you don’t need to specify the model structure or hyperparameters. It experiments with multiple model architectures and picks out the best model given the features and the task.
