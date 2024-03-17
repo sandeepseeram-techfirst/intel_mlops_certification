@@ -94,3 +94,4 @@ AWS recommends using the Parquet format because “the Parquet format is up to 2
 A query optimizer examines all possible ways to execute a query and finds the fastest way to do so. 
 
 Query optimization is one of the most challenging problems in database systems, and normalization means that data is spread out on multiple relations, which makes joining it together even harder. Even though developing a query optimizer is hard, the good news is that you generally only need one query optimizer and all your applications can leverage it.
+
