@@ -95,3 +95,6 @@ A query optimizer examines all possible ways to execute a query and finds the fa
 
 Query optimization is one of the most challenging problems in database systems, and normalization means that data is spread out on multiple relations, which makes joining it together even harder. Even though developing a query optimizer is hard, the good news is that you generally only need one query optimizer and all your applications can leverage it.
 
+#### What is a Declarative ML System? 
+With a declarative ML system, users only need to declare the features’ schema and the task, and the system will figure out the best model to perform that task with the given features. Users won’t have to write code to construct, train, and tune models. 
+
