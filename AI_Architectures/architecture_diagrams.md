@@ -6,7 +6,7 @@
 - Package 
 - Component Diagrams 
 
-### Why? 
+### Why?  
 - Components and Flow 
 - Proactive Problem Identification and Mitigation 
 - Collaboration and Alignment
