@@ -109,4 +109,5 @@ In Ludwig, users can specify the model structure—such as the number of fully c
 ##### H2O AutoML 
 In H2O AutoML, you don’t need to specify the model structure or hyperparameters. It experiments with multiple model architectures and picks out the best model given the features and the task.
 
+#### Structured vs. Unstructured Data
 
