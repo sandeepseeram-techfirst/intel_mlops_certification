@@ -19,7 +19,7 @@ a collection of small independent services. self contained units - communication
 - Service Discovery Patterns facilitate dynamic service registeration and discovery, allowing services to find and connect without hardcoded dependencies. 
 
 
-#### Cicuit Breaker 
+#### Cicuit Breaker
 If the service becomes unresponsive or experience errors, the circuit breaker trips and routes requests to an alternative path, such as a fallback service or cached data. 
 
 #### API Gateway 
