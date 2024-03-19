@@ -6,4 +6,4 @@
 - Model Inference Pipeline
 - Inference Post-Processing
 - User Interface
-- Employee Maintenance Support Chatbot 
+- Employee Maintenance Support Chatbot
