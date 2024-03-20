@@ -35,7 +35,7 @@
 
 #### AI Specific Services 
 
-##### Amazon SageMaker 
+##### Amazon SageMaker
 
 - Its a fully managed service enabling the building, training, and deployment of the ML models at scale. 
 - Distributed Model Training and Deployment - SageMaker supports scalable and distributed training and deployment of ML models. 
