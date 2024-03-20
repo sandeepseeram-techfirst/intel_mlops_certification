@@ -29,7 +29,7 @@
 - Tools like Feast and Tecton support feature store capabilities. 
 - Promote feature engineering best practives and accelerate model development. 
 
-#### Vector Databases 
+#### Vector Databases
 
 - Designed to handle high-dimensional vector data in ML 
 - Key for efficient indexing and querying in high-dimensional space. 
