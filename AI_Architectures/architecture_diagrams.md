@@ -9,7 +9,7 @@
 ### Why? 
 - Components and Flow 
 - Proactive Problem Identification and Mitigation 
-- Collaboration and Alignment 
+- Collaboration and Alignment  
 
 ### Notation Standards 
 
