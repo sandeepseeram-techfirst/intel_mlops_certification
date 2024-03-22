@@ -10,7 +10,7 @@
 - Data Validation Techniques 
 
 ![alt text](datamanagement.png)
-
+ 
 
 - These components enable organizations to handle large data volumes efficiently. 
 - They ensure data consistency across different stages of the machine learning lifecycle. 
