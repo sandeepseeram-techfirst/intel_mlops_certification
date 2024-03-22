@@ -32,7 +32,7 @@ Data Processing =============> Model Development ==============> Inference Servi
 - Apache Kafka 
 - Apache Flink 
 
-#### Federated Learning Architecture 
+#### Federated Learning Architecture
 
 - Enables collabrative model training across multiple devices, organiations, ensuring data privacy and reducing data transfer. 
 - The aggregated gradients from these local models are shared to improve the global model, avoiding the need for raw data transfer. 
