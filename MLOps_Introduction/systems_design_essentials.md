@@ -44,7 +44,7 @@ Using trained models to make predictions or generate assets.
 using trained models to make predictions or generate assets.
 ##### Two Types: 
  - Realtime 
- - Batch 
+ - Batch  
 
 ##### Monitoring Model Inference 
 - Reliability Score 
