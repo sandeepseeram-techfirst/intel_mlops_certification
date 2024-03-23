@@ -15,4 +15,4 @@
 #### HTTP Headers and Body 
 
 - CURL (Client URL) is a command line tool that transfers data to and from a server. 
-- The header of the HTTP post request indicates the Content-Type. Headers can also be used to define authentication credentials and caching directives.  
+- The header of the HTTP post request indicates the Content-Type. Headers can also be used to define authentication credentials and caching directives. 
