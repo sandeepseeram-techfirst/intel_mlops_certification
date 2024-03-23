@@ -13,7 +13,7 @@ Value Driven Design in AI Solutions
   
   * Resources to POC 
   * Integration with Legacy 
-  * Financial Impact 
+  * Financial Impact  
   * 4 Pillar Allignment 
   * User Learning Curve 
   * Maintenance 
