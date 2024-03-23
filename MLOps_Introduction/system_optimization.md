@@ -24,5 +24,5 @@ Bottlenecks and Oppurtunities for Optimization in AI Systems.
 
 
 #### Software-Hardware Co-Design 
-taking advantage of the hardware's unique features and capabilities. 
+taking advantage of the hardware's unique features and capabilities.  
 
