@@ -13,4 +13,4 @@
 - Enhanced Version Control: Enables tracking of various model versions, capturing training data, hyperparameters, and evaluation metrics. 
 - Team Collaboration: Facilitates reproducibility, model sharing and collaboration among team members. 
 
-- Implement Model Monitoring 
+- Implement Model Monitoring  
