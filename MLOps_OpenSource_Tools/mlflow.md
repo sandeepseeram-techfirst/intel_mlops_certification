@@ -13,7 +13,7 @@
 - Package data science code in a format to reproduce runs on any platform. 
 
 ##### MLflow Models
-- Deploy machine learning models in diverse serving environments. 
+- Deploy machine learning models in diverse serving environments.  
 
 ##### MLflow Registry 
 - Store, annotate, discover and manage models in a central repository. 
