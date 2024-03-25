@@ -14,7 +14,7 @@
 - Model registries like MLflow, Seldon and KubeFlow offer centralized storage with metadata and version details. '
 
 
-#### Model Metadata 
+#### Model Metadata  
 
 - details about a model, from architecture to evaluation metrics 
 - Tools like MLflow and KubeFlow capture and store model metadata for performance comparison and informed deployment decisions. 
