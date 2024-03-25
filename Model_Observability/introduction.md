@@ -28,4 +28,4 @@
 #### Techniques 
 
 - A/B testing 
-- Canary Releases 
+- Canary Releases  
