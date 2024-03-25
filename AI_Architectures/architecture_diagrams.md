@@ -9,9 +9,9 @@
 ### Why? 
 - Components and Flow 
 - Proactive Problem Identification and Mitigation 
-- Collaboration and Alignment  
+- Collaboration and Alignment
 
-### Notation Standards 
+### Notation Standards
 
 - UML - Unified Modeling Language 
 - C4 Model 
