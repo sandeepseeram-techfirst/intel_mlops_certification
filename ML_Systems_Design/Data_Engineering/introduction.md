@@ -118,3 +118,5 @@ A data warehouse serves as a storage facility for structured data, while a data 
 
 
 Today, we have transactional databases that can handle analytical queries, such as CockroachDB. We also have analytical databases that can handle transactional queries, such as Apache Iceberg and DuckDB.
+
+The most popular styles of requests used for passing data through networks are REST (representational state transfer) and RPC (remote procedure call). 
