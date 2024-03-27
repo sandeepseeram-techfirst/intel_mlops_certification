@@ -114,4 +114,4 @@ In H2O AutoML, you don’t need to specify the model structure or hyperparameter
 Structured data follows a predefined data model, also known as a data schema.
 Even though unstructured data doesn’t adhere to a schema, it might still contain intrinsic patterns that help you extract structures. 
 
-A data warehouse serves as a storage facility for structured data, while a data lake is designated for the storage of unstructured data.
+A data warehouse serves as a storage facility for structured data, while a data lake is designated for the storage of unstructured data. 
