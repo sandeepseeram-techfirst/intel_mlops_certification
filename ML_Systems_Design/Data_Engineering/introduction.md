@@ -112,3 +112,4 @@ In H2O AutoML, you don’t need to specify the model structure or hyperparameter
 #### Structured vs. Unstructured Data
 
 Structured data follows a predefined data model, also known as a data schema.
+Even though unstructured data doesn’t adhere to a schema, it might still contain intrinsic patterns that help you extract structures. 
