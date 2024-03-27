@@ -115,3 +115,6 @@ Structured data follows a predefined data model, also known as a data schema.
 Even though unstructured data doesn’t adhere to a schema, it might still contain intrinsic patterns that help you extract structures. 
 
 A data warehouse serves as a storage facility for structured data, while a data lake is designated for the storage of unstructured data. 
+
+
+Today, we have transactional databases that can handle analytical queries, such as CockroachDB. We also have analytical databases that can handle transactional queries, such as Apache Iceberg and DuckDB.
