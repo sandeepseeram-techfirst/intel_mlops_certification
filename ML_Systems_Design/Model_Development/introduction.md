@@ -10,7 +10,7 @@ Model development is an iterative process.
 3. model calibration 
 4. slide-based evaluation.
 
-###### AutoML? 
+###### AutoML?  
 AutoML - using ML to automatically choose a model best for your problem.
 
 
