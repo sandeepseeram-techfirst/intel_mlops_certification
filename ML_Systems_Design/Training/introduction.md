@@ -12,3 +12,4 @@ Data lineage helps you both flag potential biases in your data and debug your mo
 
 ##### Data Synthesis
 The use of synthetic data for training a ML Model. 
+
