@@ -10,3 +10,5 @@ It’s good practice to keep track of the origin of each of your data samples as
 
 Data lineage helps you both flag potential biases in your data and debug your models. 
 
+##### Data Synthesis
+The use of synthetic data for training a ML Model. 
