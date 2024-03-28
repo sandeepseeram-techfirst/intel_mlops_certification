@@ -4,7 +4,7 @@
 - FastAPI is widely used to serve ML models via API's 
 - FastAPI handles data preprocesing tasks in AI applications 
 - FastAPI facilitate batch-processing and real-time data streaming in AI applications. 
-- FastAPI is used in orchestrating complex AI workflows. 
+- FastAPI is used in orchestrating complex AI workflows.  
 
 - Supports asynchronous programming for concurrent requests 
 
