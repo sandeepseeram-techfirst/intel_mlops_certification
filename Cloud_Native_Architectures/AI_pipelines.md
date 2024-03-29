@@ -5,5 +5,5 @@
 - Real-time Data Processing Pipeline
 - Model Inference Pipeline
 - Inference Post-Processing
-- User Interface
+- User Interface 
 - Employee Maintenance Support Chatbot 
