@@ -11,4 +11,4 @@ Model development is an iterative process.
 4. slide-based evaluation.
 
 ###### AutoML? 
-AutoML—using ML to automatically choose a model best for your problem.
+AutoML - using ML to automatically choose a model best for your problem.
