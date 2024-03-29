@@ -10,3 +10,10 @@ Note: Many features can be automatically learned and extracted by algorithms.
 
 
  InterpretML is a great open source package that leverages feature importance to help you understand how your model makes predictions.
+
+
+Data Splits is very important. 
+
+ TRAIN =====> VALID =====> TEST 
+
+ Split data by time into train/valid/test splits instead of doing it randomly.
