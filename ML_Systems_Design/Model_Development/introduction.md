@@ -7,7 +7,7 @@ Model development is an iterative process.
 ##### Evaluation Techniques 
 1. perturbation tests 
 2. invariance tests
-3. model calibration
+3. model calibration 
 4. slide-based evaluation.
 
 ###### AutoML? 
