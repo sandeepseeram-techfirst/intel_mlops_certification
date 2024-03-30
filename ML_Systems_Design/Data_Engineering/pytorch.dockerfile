@@ -8,5 +8,5 @@ RUN cd apex && \
 
 WORKDIR /fancy-nlp-project
 RUN git clone https://github.com/huggingface/transformers.git && \
-    cd transformers && \
-    python3 -m pip install --no-cache-dir.
+cd transformers && \
+python3 -m pip install --no-cache-dir.
