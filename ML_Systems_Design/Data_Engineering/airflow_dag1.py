@@ -5,7 +5,7 @@ from airflow import DAG
 from airflow.operators.bash import BashOperator
 from airflow.providers.docker.operators.docker import DockerOperator
   
-dag = DAG(
+dag = DAG( 
     'docker_sample',
     default_args={'retries': 1},
     schedule_interval=timedelta(minutes=10),
